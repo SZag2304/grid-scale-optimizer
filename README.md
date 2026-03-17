@@ -21,12 +21,9 @@ Using **Mixed-Integer Linear Programming (MILP)**, the model dynamically schedul
 ---
 
 ## 📸 Interactive Dashboard
-*<img width="1374" height="1186" alt="Streamlit Dashboard" src="https://github.com/user-attachments/assets/f5276960-2ace-4e90-bca2-07ca77c191c5" />
-
+<img width="1374" height="1186" alt="Streamlit Dashboard" src="https://github.com/user-attachments/assets/f5276960-2ace-4e90-bca2-07ca77c191c5" />
 
 https://github.com/user-attachments/assets/58f9f0af-8a92-49d3-8d0d-322e0bb7113f
-
- *
 
 ---
 
